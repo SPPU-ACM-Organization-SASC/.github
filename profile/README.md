@@ -7,7 +7,7 @@ Welcome to the official repository of the Savitribai Phule Pune University (SPPU
 
 🎯 Our Pillars of Excellence
 
-I. *The "Beyond-the-Books" Culture*
+### I. *The "Beyond-the-Books" Culture*
 
 Bridge to Industry Our primary mission is to close the gap between academic theory and the pulse of the tech industry. We move beyond the standard syllabus to bring hands-on expertise in:
 
@@ -19,7 +19,7 @@ Bridge to Industry Our primary mission is to close the gap between academic theo
 
     DevOps & Modern Infrastructure
 
-II. *Research & Publication Excellence*
+### II. *Research & Publication Excellence*
 
 From Ideas to Impact Leveraging the vast resources of the ACM Digital Library, we foster a rigorous research environment. We don't just consume technology; we document its evolution. Our goal is to mentor students to:
 
@@ -29,7 +29,7 @@ From Ideas to Impact Leveraging the vast resources of the ACM Digital Library, w
 
     Present findings at prestigious international conferences.
 
-III. *Collaborative Innovation*
+### III. *Collaborative Innovation*
 
 Peer-to-Peer Learning We believe the best classroom is a shared screen. SASC is a hub for collective growth through:
 
@@ -39,7 +39,7 @@ Peer-to-Peer Learning We believe the best classroom is a shared screen. SASC is 
 
     Build-in-Public: Documenting our journey, learning from bugs, and celebrating successful deployments.
 
-IV. *Professional Ethics & Leadership*
+### IV. *Professional Ethics & Leadership*
 
 Coding with Conscience Technological skill without ethics is incomplete. Following the ACM global standard, we groom "Human-Centric Tech Leaders." We focus on:
 
